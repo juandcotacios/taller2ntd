@@ -107,6 +107,30 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+.conclusion-section {
+  background-color: #f9f9f9; /* Fondo claro */
+  padding: 40px 0; /* Espaciado interno */
+}
+
+.conclusion-box {
+  background-color: #ffffff; /* Fondo blanco para la caja */
+  padding: 20px; /* Espaciado interno */
+  border-radius: 8px; /* Bordes redondeados */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+  margin-bottom: 20px; /* Espaciado inferior */
+}
+
+.text-primary {
+  color: #007bff; /* Color primario para el título de la sección */
+}
+
+.text-secondary {
+  color: #6c757d; /* Color secundario para los títulos de las conclusiones */
+}
+
+.text-dark {
+  color: #333; /* Color del texto */
+}
 
 
 hr {
