@@ -11201,3 +11201,29 @@ body {
 .footer {
   padding: 5rem 0;
 }
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #343a40;
+  color: white;
+}
+
+.table td {
+  background-color: #212529;
+}
+
+.table ol {
+  padding-left: 20px;
+  margin: 0;
+}
